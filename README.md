@@ -1,6 +1,4 @@
-# Azure-Cosmos-DB
-
-# Azure Cosmos DB Mini Project
+# Azure Cosmos DB Learning Project
 
 Overview  
 This project demonstrates how to connect to **Azure Cosmos DB** using Python and perform basic operations such as creating a database, containers, inserting documents, and running queries.  
